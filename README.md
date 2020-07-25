@@ -5,6 +5,7 @@ This model was developed using Python v 3.7.6 with the following libraries:<br>
 - Numpy
 - Matplotlib
 - Seaborn
+
 <br><br>
 The primary motivations for this project were to familiarize myself with classification tasks and feature importances. I also used this task to practice data cleaning and EDA. The final tuned Random Forest Classfier produced the predictions found in the 'titanic_submission.csv' file. This csv was then uploaded to Kaggle to obtain my final accuracy score. The full breakdown of my cleaning, analysis, and results can be viewed in the titanic_classifier jupyter notebook.
 <br><br>
